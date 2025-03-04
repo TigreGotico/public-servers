@@ -1,7 +1,7 @@
 url: https://vosk.tigregotico.pt/status
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-03-04T22:03:29.429Z
+status: up
+code: 200
+responseTime: 527
+lastUpdated: 2025-03-04T22:17:08.423Z
 startTime: 2025-03-04T18:17:12.113Z
 generator: Upptime <https://github.com/upptime/upptime>
