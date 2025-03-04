@@ -34,9 +34,9 @@ status-website:
   #cname: demo.upptime.js.org
   baseUrl: /public-servers
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: "Tigre Gótico Server Status"
+  introTitle: "Welcome to **Tigre Gótico Lda** public servers uptime monitor page"
+  introMessage: This page uses **real-time** data from our [GitHub repository](https://github.com/TigreGotico/public-servers). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
       href: /
