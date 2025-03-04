@@ -7,6 +7,26 @@ sites:
     url: https://nos.tigregotico.pt/status
   - name: TTS - Matxa
     url: https://matxa.tigregotico.pt/status
+  - name: TTS - Piper
+    url: https://piper.tigregotico.pt/status
+  - name: TTS - Mimic
+    url: https://mimic.tigregotico.pt/status
+  - name: TTS - SAM
+    url: https://sam.tigregotico.pt/status
+  - name: STT - FasterWhisper (turbo-v3)
+    url: https://fasterwhisper.tigregotico.pt/status
+  - name: STT - Citrinet
+    url: https://citrinet.tigregotico.pt/status
+  - name: STT - Vosk
+    url: https://vosk.tigregotico.pt/status
+  - name: STT - Google Chromium (proxy)
+    url: https://chromium.tigregotico.pt/status
+  - name: Translate - NLLB
+    url: https://nllb.tigregotico.pt/status
+  - name: Translate - Google (proxy)
+    url: https://google-translate.tigregotico.pt/status
+  - name: Persona - Ollama
+    url: https://ollama.tigregotico.pt
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
