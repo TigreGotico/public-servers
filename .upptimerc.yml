@@ -33,8 +33,6 @@ sites:
     url: https://qwen.tigregotico.pt/status
   - name: Persona - Phi4
     url: https://phi4.tigregotico.pt/status
-  - name: Persona - Mixtral (proxy)
-    url: https://mixtral.tigregotico.pt/status
   - name: Persona - Claude (proxy)
     url: https://claude.tigregotico.pt/status
   - name: Persona - GPT-4o-mini (proxy)
