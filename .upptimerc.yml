@@ -27,8 +27,16 @@ sites:
     url: https://nllb.tigregotico.pt/status
   - name: Translate - Google (proxy)
     url: https://google-translate.tigregotico.pt/status
-  - name: Persona - Ollama
-    url: https://ollama.tigregotico.pt
+  - name: Persona - Qwen2.5
+    url: https://qwen.tigregotico.pt/status
+  - name: Persona - Phi4
+    url: https://phi4.tigregotico.pt/status
+  - name: Persona - Mixtral (proxy)
+    url: https://mixtral.tigregotico.pt/status
+  - name: Persona - Claude (proxy)
+    url: https://claude.tigregotico.pt/status
+  - name: Persona - GPT-4o-mini (proxy)
+    url: https://gpt4.tigregotico.pt/status
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
