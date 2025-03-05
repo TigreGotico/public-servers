@@ -1,7 +1,7 @@
 url: https://chromium.tigregotico.pt/status
-status: down
-code: 502
-responseTime: 709
-lastUpdated: 2025-03-05T20:55:14.189Z
+status: up
+code: 200
+responseTime: 1780
+lastUpdated: 2025-03-05T21:43:01.022Z
 startTime: 2025-03-04T18:17:12.907Z
 generator: Upptime <https://github.com/upptime/upptime>
