@@ -29,6 +29,8 @@ sites:
     url: https://google-translate.tigregotico.pt/status
   - name: Persona - OVOS Helpbot
     url: https://ovos-helpbot.tigregotico.pt/status
+  - name: Persona - Salamandra
+    url: https://salamandra.tigregotico.pt/status
   - name: Persona - Qwen2.5
     url: https://qwen.tigregotico.pt/status
   - name: Persona - Phi4
