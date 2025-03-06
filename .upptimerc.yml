@@ -37,6 +37,14 @@ sites:
     url: https://claude.tigregotico.pt/status
   - name: Persona - GPT-4o-mini (proxy)
     url: https://gpt4.tigregotico.pt/status
+  - name: Benchmark - TTS
+    url: https://tts-bench.tigregotico.pt
+  - name: Benchmark - STT
+    url: https://stt-bench.tigregotico.pt
+  - name: Benchmark - Gitlocalize
+    url: https://gitlocalize-bench.tigregotico.pt
+  - name: Benchmark - Meteocat
+    url: https://meteocat.bench.tigregotico.pt
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
