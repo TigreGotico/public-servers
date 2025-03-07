@@ -1,7 +1,7 @@
 url: https://claude.tigregotico.pt/status
-status: down
-code: 502
-responseTime: 714
-lastUpdated: 2025-03-06T23:29:38.031Z
+status: up
+code: 200
+responseTime: 530
+lastUpdated: 2025-03-07T01:31:02.828Z
 startTime: 2025-03-05T19:35:14.223Z
 generator: Upptime <https://github.com/upptime/upptime>
