@@ -1,7 +1,7 @@
 url: https://stt-bench.tigregotico.pt
-status: down
-code: 502
-responseTime: 674
-lastUpdated: 2025-03-11T23:19:52.723Z
+status: up
+code: 200
+responseTime: 755
+lastUpdated: 2025-03-12T11:47:19.286Z
 startTime: 2025-03-06T14:07:30.086Z
 generator: Upptime <https://github.com/upptime/upptime>
