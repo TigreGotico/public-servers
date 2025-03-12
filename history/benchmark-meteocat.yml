@@ -1,7 +1,7 @@
 url: https://meteocat.bench.tigregotico.pt
-status: down
-code: 502
-responseTime: 704
-lastUpdated: 2025-03-11T23:19:55.260Z
+status: up
+code: 200
+responseTime: 762
+lastUpdated: 2025-03-12T11:47:26.136Z
 startTime: 2025-03-06T14:07:32.237Z
 generator: Upptime <https://github.com/upptime/upptime>
