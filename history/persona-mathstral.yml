@@ -1,7 +1,7 @@
-url: https://mathstral-v.tigregotico.pt/status
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-03-12T19:41:21.545Z
+url: https://mathstral.tigregotico.pt/status
+status: up
+code: 200
+responseTime: 567
+lastUpdated: 2025-03-12T19:44:41.776Z
 startTime: 2025-03-12T19:41:20.398Z
 generator: Upptime <https://github.com/upptime/upptime>
