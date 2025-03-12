@@ -27,7 +27,7 @@ sites:
     url: https://google-translate.tigregotico.pt/status
   - name: Persona - OVOS Helpbot
     url: https://ovos-helpbot.tigregotico.pt/status
-  - name: Persona - Aya
+  - name: Persona - Aya Extreme
     url: https://aya.tigregotico.pt/status
   - name: Persona - Command R
     url: https://command-r.tigregotico.pt/status
