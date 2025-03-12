@@ -95,6 +95,8 @@ sites:
     url: https://claude.tigregotico.pt/status
   - name: Persona - GPT-4o-mini (proxy)
     url: https://gpt4.tigregotico.pt/status
+  - name: Persona - Mixtral (proxy)
+    url: https://mixtral.tigregotico.pt/status
   - name: Benchmark - TTS
     url: https://tts-bench.tigregotico.pt
   - name: Benchmark - STT
