@@ -54,7 +54,7 @@ sites:
   - name: Persona - LLava Phi3
     url: https://llava-phi3.tigregotico.pt/status
   - name: Persona - Mathstral
-    url: https://mathstral-v.tigregotico.pt/status
+    url: https://mathstral.tigregotico.pt/status
   - name: Persona - Mini CPM V
     url: https://minicpm-v.tigregotico.pt/status
   - name: Persona - Mistral Nemo
