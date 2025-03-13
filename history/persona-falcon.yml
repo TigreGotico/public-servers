@@ -1,7 +1,7 @@
 url: https://falcon.tigregotico.pt/status
-status: up
-code: 200
-responseTime: 951
-lastUpdated: 2025-03-13T01:02:26.386Z
+status: down
+code: 502
+responseTime: 448
+lastUpdated: 2025-03-13T19:35:58.420Z
 startTime: 2025-03-12T19:41:09.693Z
 generator: Upptime <https://github.com/upptime/upptime>
