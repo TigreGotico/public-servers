@@ -1,7 +1,7 @@
 url: https://gemma.tigregotico.pt/status
-status: down
-code: 502
-responseTime: 450
-lastUpdated: 2025-03-13T19:36:01.044Z
+status: up
+code: 200
+responseTime: 503
+lastUpdated: 2025-03-13T19:43:47.068Z
 startTime: 2025-03-12T14:59:16.243Z
 generator: Upptime <https://github.com/upptime/upptime>
