@@ -1,7 +1,7 @@
 url: https://matxa.tigregotico.pt/status
-status: up
-code: 200
-responseTime: 921
-lastUpdated: 2025-03-13T01:02:10.493Z
+status: down
+code: 502
+responseTime: 676
+lastUpdated: 2025-03-13T10:49:37.614Z
 startTime: 2025-03-04T18:12:40.277Z
 generator: Upptime <https://github.com/upptime/upptime>
