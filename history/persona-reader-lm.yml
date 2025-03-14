@@ -1,7 +1,7 @@
 url: https://reader-lm.tigregotico.pt/status
-status: up
-code: 200
-responseTime: 740
-lastUpdated: 2025-03-14T11:17:26.519Z
+status: down
+code: 502
+responseTime: 447
+lastUpdated: 2025-03-14T13:03:50.010Z
 startTime: 2025-03-12T19:41:33.330Z
 generator: Upptime <https://github.com/upptime/upptime>
