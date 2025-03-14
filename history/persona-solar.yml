@@ -1,7 +1,7 @@
 url: https://solar.tigregotico.pt/status
-status: down
-code: 502
-responseTime: 449
-lastUpdated: 2025-03-14T09:48:11.916Z
+status: up
+code: 200
+responseTime: 775
+lastUpdated: 2025-03-14T11:17:38.630Z
 startTime: 2025-03-12T19:41:37.699Z
 generator: Upptime <https://github.com/upptime/upptime>
