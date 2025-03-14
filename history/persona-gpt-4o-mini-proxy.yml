@@ -1,7 +1,7 @@
 url: https://gpt4.tigregotico.pt/status
-status: up
-code: 200
-responseTime: 739
-lastUpdated: 2025-03-14T11:17:54.073Z
+status: down
+code: 502
+responseTime: 451
+lastUpdated: 2025-03-14T13:04:09.771Z
 startTime: 2025-03-05T19:35:15.057Z
 generator: Upptime <https://github.com/upptime/upptime>
