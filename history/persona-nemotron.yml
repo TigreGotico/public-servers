@@ -1,7 +1,7 @@
 url: https://nemotron.tigregotico.pt/status
-status: down
-code: 502
-responseTime: 686
-lastUpdated: 2025-03-14T13:03:34.291Z
+status: up
+code: 200
+responseTime: 505
+lastUpdated: 2025-03-14T13:30:21.189Z
 startTime: 2025-03-12T19:41:25.305Z
 generator: Upptime <https://github.com/upptime/upptime>
