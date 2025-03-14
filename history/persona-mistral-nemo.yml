@@ -1,7 +1,7 @@
 url: https://mistral-nemo.tigregotico.pt/status
-status: down
-code: 502
-responseTime: 459
-lastUpdated: 2025-03-14T09:47:42.162Z
+status: up
+code: 200
+responseTime: 760
+lastUpdated: 2025-03-14T11:16:59.843Z
 startTime: 2025-03-12T14:59:20.659Z
 generator: Upptime <https://github.com/upptime/upptime>
