@@ -1,7 +1,7 @@
 url: https://granite.tigregotico.pt/status
-status: up
-code: 200
-responseTime: 779
-lastUpdated: 2025-03-14T11:16:40.835Z
+status: down
+code: 502
+responseTime: 446
+lastUpdated: 2025-03-14T13:03:15.117Z
 startTime: 2025-03-12T14:59:17.070Z
 generator: Upptime <https://github.com/upptime/upptime>
