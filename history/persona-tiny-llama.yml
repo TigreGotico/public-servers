@@ -1,7 +1,7 @@
 url: https://tiny-llama.tigregotico.pt/status
-status: up
-code: 200
-responseTime: 761
-lastUpdated: 2025-03-13T23:20:18.659Z
+status: down
+code: 502
+responseTime: 463
+lastUpdated: 2025-03-14T09:48:16.843Z
 startTime: 2025-03-12T19:41:39.949Z
 generator: Upptime <https://github.com/upptime/upptime>
