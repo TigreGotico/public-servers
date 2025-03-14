@@ -29,6 +29,8 @@ sites:
     url: https://nllb.tigregotico.pt/status
   - name: Translate - Google (proxy)
     url: https://google-translate.tigregotico.pt/status
+  - name: Persona - HiveMind
+    url: https://hivemind-persona.tigregotico.pt/status
   - name: Persona - OVOS Helpbot
     url: https://ovos-helpbot.tigregotico.pt/status
   - name: Persona - Aya Extreme
