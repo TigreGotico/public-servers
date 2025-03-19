@@ -22,7 +22,7 @@ sites:
   - name: STT - Citrinet
     url: https://citrinet.tigregotico.pt/status
   - name: STT - Whisper (GPU)
-    url: https://mynorthai.tigregotico.pt/status
+    url: https://whisper.tigregotico.pt/status
   - name: STT - MyNorthAI (GPU)
     url: https://mynorthai.tigregotico.pt/status
   - name: STT - Whisper Xabier Zuazo - ES (GPU)
