@@ -25,6 +25,10 @@ sites:
     url: https://mynorthai.tigregotico.pt/status
   - name: STT - MyNorthAI (GPU)
     url: https://mynorthai.tigregotico.pt/status
+  - name: STT - Whisper Xabier Zuazo - ES (GPU)
+    url: https://zuazo-es.tigregotico.pt/status
+  - name: STT - Whisper Xabier Zuazo - GL (GPU)
+    url: https://zuazo-gl.tigregotico.pt/status
   - name: STT - HiTZ (GPU)
     url: https://hitz.tigregotico.pt/status
   - name: STT - Google Chromium (proxy)
