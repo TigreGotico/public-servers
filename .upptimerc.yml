@@ -17,12 +17,14 @@ sites:
     url: https://mimic.tigregotico.pt/status
   - name: TTS - SAM
     url: https://sam.tigregotico.pt/status
-  - name: STT - FasterWhisper (turbo-v3)
+  - name: STT - FasterWhisper (turbo-large-v3)
     url: https://fasterwhisper.tigregotico.pt/status
   - name: STT - Citrinet
     url: https://citrinet.tigregotico.pt/status
-  - name: STT - Vosk
-    url: https://vosk.tigregotico.pt/status
+  - name: STT - MyNorthAI (GPU)
+    url: https://mynorthai.tigregotico.pt/status
+  - name: STT - HiTZ (GPU)
+    url: https://hitz.tigregotico.pt/status
   - name: STT - Google Chromium (proxy)
     url: https://chromium.tigregotico.pt/status
   - name: Translate - NLLB
