@@ -1,7 +1,7 @@
 url: https://dolphin.tigregotico.pt/status
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-03-23T14:32:16.737Z
+status: up
+code: 200
+responseTime: 511
+lastUpdated: 2025-03-23T14:57:27.732Z
 startTime: 2025-03-12T14:59:15.355Z
 generator: Upptime <https://github.com/upptime/upptime>
