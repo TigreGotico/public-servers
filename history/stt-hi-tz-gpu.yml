@@ -1,7 +1,7 @@
 url: https://hitz.tigregotico.pt/status
-status: up
-code: 200
-responseTime: 743
-lastUpdated: 2025-03-22T23:20:05.089Z
+status: down
+code: 502
+responseTime: 567
+lastUpdated: 2025-03-23T12:59:37.464Z
 startTime: 2025-03-19T21:47:40.369Z
 generator: Upptime <https://github.com/upptime/upptime>
