@@ -1,7 +1,7 @@
 url: https://whisper.tigregotico.pt/status
-status: down
-code: 502
-responseTime: 544
-lastUpdated: 2025-03-23T22:30:22.206Z
+status: up
+code: 200
+responseTime: 521
+lastUpdated: 2025-03-23T22:41:56.625Z
 startTime: 2025-03-19T22:36:00.486Z
 generator: Upptime <https://github.com/upptime/upptime>
