@@ -1,7 +1,7 @@
 url: https://metrics.tigregotico.pt/status
-status: down
-code: 502
-responseTime: 1174
-lastUpdated: 2025-03-24T12:28:35.079Z
+status: up
+code: 200
+responseTime: 616
+lastUpdated: 2025-03-24T13:33:57.097Z
 startTime: 2025-03-13T01:02:05.951Z
 generator: Upptime <https://github.com/upptime/upptime>
