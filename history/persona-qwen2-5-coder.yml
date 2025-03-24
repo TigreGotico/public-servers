@@ -1,7 +1,7 @@
 url: https://qwen-coder.tigregotico.pt/status
-status: up
-code: 200
-responseTime: 860
-lastUpdated: 2025-03-23T23:19:35.624Z
+status: down
+code: 502
+responseTime: 715
+lastUpdated: 2025-03-24T12:31:23.601Z
 startTime: 2025-03-12T14:59:24.956Z
 generator: Upptime <https://github.com/upptime/upptime>
