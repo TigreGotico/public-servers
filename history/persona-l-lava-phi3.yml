@@ -1,7 +1,7 @@
 url: https://llava-phi3.tigregotico.pt/status
-status: down
-code: 502
-responseTime: 702
-lastUpdated: 2025-03-24T12:31:00.342Z
+status: up
+code: 200
+responseTime: 518
+lastUpdated: 2025-03-24T16:46:20.794Z
 startTime: 2025-03-12T14:59:18.890Z
 generator: Upptime <https://github.com/upptime/upptime>
