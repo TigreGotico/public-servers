@@ -1,7 +1,7 @@
 url: https://deepscaler.tigregotico.pt/status
-status: up
-code: 200
-responseTime: 505
-lastUpdated: 2025-03-23T23:19:19.681Z
+status: down
+code: 502
+responseTime: 4584
+lastUpdated: 2025-03-24T12:29:52.472Z
 startTime: 2025-03-12T19:41:06.322Z
 generator: Upptime <https://github.com/upptime/upptime>
