@@ -1,7 +1,7 @@
 url: https://hivemind-persona.tigregotico.pt/status
-status: up
-code: 200
-responseTime: 596
-lastUpdated: 2025-03-24T18:20:49.054Z
+status: down
+code: 502
+responseTime: 457
+lastUpdated: 2025-03-24T19:44:20.519Z
 startTime: 2025-03-14T18:05:02.501Z
 generator: Upptime <https://github.com/upptime/upptime>
