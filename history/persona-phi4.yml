@@ -1,7 +1,7 @@
 url: https://phi4.tigregotico.pt/status
-status: up
-code: 200
-responseTime: 515
-lastUpdated: 2025-03-23T23:19:33.153Z
+status: down
+code: 502
+responseTime: 706
+lastUpdated: 2025-03-24T12:31:19.085Z
 startTime: 2025-03-05T19:35:12.559Z
 generator: Upptime <https://github.com/upptime/upptime>
