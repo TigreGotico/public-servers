@@ -1,7 +1,7 @@
 url: https://nos.tigregotico.pt/status
-status: down
-code: 502
-responseTime: 807
-lastUpdated: 2025-03-24T17:10:32.968Z
+status: up
+code: 200
+responseTime: 997
+lastUpdated: 2025-03-24T17:30:01.967Z
 startTime: 2025-03-04T18:12:39.232Z
 generator: Upptime <https://github.com/upptime/upptime>
