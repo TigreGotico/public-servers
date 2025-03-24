@@ -1,7 +1,7 @@
 url: https://opendata.tigregotico.pt
-status: down
-code: 502
-responseTime: 733
-lastUpdated: 2025-03-24T15:09:32.153Z
+status: up
+code: 200
+responseTime: 619
+lastUpdated: 2025-03-24T15:30:43.827Z
 startTime: 2025-03-13T01:02:07.227Z
 generator: Upptime <https://github.com/upptime/upptime>
