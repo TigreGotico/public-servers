@@ -1,7 +1,7 @@
 url: https://tulu.tigregotico.pt/status
-status: up
-code: 200
-responseTime: 592
-lastUpdated: 2025-03-23T23:19:41.314Z
+status: down
+code: 502
+responseTime: 718
+lastUpdated: 2025-03-24T12:31:39.035Z
 startTime: 2025-03-12T19:41:41.072Z
 generator: Upptime <https://github.com/upptime/upptime>
