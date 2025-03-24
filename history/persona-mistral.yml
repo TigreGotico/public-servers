@@ -1,7 +1,7 @@
 url: https://mistral.tigregotico.pt/status
-status: down
-code: 502
-responseTime: 707
-lastUpdated: 2025-03-24T12:31:13.035Z
+status: up
+code: 200
+responseTime: 507
+lastUpdated: 2025-03-24T16:46:31.583Z
 startTime: 2025-03-12T19:41:24.113Z
 generator: Upptime <https://github.com/upptime/upptime>
