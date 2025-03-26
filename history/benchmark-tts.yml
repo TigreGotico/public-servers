@@ -1,7 +1,7 @@
 url: https://tts-bench.tigregotico.pt
-status: down
-code: 502
-responseTime: 565
-lastUpdated: 2025-03-26T12:00:38.358Z
+status: up
+code: 200
+responseTime: 563
+lastUpdated: 2025-03-26T12:41:33.470Z
 startTime: 2025-03-06T14:07:28.928Z
 generator: Upptime <https://github.com/upptime/upptime>
