@@ -1,7 +1,7 @@
 url: https://zuazo-es.tigregotico.pt/status
-status: down
-code: 502
-responseTime: 513
-lastUpdated: 2025-03-27T06:55:13.397Z
+status: up
+code: 200
+responseTime: 628
+lastUpdated: 2025-03-27T07:12:40.003Z
 startTime: 2025-03-19T23:04:49.552Z
 generator: Upptime <https://github.com/upptime/upptime>
