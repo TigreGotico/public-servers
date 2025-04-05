@@ -1,7 +1,7 @@
 url: https://gitlocalize-bench.tigregotico.pt
-status: up
-code: 200
-responseTime: 498
-lastUpdated: 2025-04-04T23:20:40.960Z
+status: down
+code: 502
+responseTime: 3750
+lastUpdated: 2025-04-05T11:20:34.317Z
 startTime: 2025-03-06T14:07:31.154Z
 generator: Upptime <https://github.com/upptime/upptime>
