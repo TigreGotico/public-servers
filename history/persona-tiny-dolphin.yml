@@ -1,7 +1,7 @@
 url: https://tiny-dolphin.tigregotico.pt/status
-status: up
-code: 200
-responseTime: 728
-lastUpdated: 2025-04-05T23:21:27.137Z
+status: down
+code: 502
+responseTime: 467
+lastUpdated: 2025-04-06T13:46:41.706Z
 startTime: 2025-03-12T19:41:38.801Z
 generator: Upptime <https://github.com/upptime/upptime>
