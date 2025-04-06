@@ -1,7 +1,7 @@
 url: https://smallthinker.tigregotico.pt/status
-status: up
-code: 200
-responseTime: 721
-lastUpdated: 2025-04-05T23:21:24.367Z
+status: down
+code: 502
+responseTime: 446
+lastUpdated: 2025-04-06T13:46:34.994Z
 startTime: 2025-03-12T19:41:35.472Z
 generator: Upptime <https://github.com/upptime/upptime>
