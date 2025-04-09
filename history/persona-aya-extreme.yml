@@ -1,7 +1,7 @@
 url: https://aya.tigregotico.pt/status
-status: down
-code: 502
-responseTime: 527
-lastUpdated: 2025-04-09T20:52:38.199Z
+status: up
+code: 200
+responseTime: 602
+lastUpdated: 2025-04-09T20:59:55.554Z
 startTime: 2025-03-12T20:28:42.176Z
 generator: Upptime <https://github.com/upptime/upptime>
