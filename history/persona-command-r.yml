@@ -1,7 +1,7 @@
 url: https://command-r.tigregotico.pt/status
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-04-16T23:26:37.952Z
+status: up
+code: 200
+responseTime: 502
+lastUpdated: 2025-04-16T23:50:43.344Z
 startTime: 2025-03-12T14:59:14.443Z
 generator: Upptime <https://github.com/upptime/upptime>
