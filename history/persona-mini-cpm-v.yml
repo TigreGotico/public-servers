@@ -1,7 +1,7 @@
 url: https://minicpm-v.tigregotico.pt/status
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-04-19T12:04:37.350Z
+status: up
+code: 200
+responseTime: 754
+lastUpdated: 2025-04-19T14:15:40.672Z
 startTime: 2025-03-12T14:59:19.750Z
 generator: Upptime <https://github.com/upptime/upptime>
