@@ -1,7 +1,7 @@
 url: https://llama-vision.tigregotico.pt/status
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-04-28T11:50:56.112Z
+status: up
+code: 200
+responseTime: 1051
+lastUpdated: 2025-04-28T22:59:35.271Z
 startTime: 2025-03-12T14:59:17.960Z
 generator: Upptime <https://github.com/upptime/upptime>
