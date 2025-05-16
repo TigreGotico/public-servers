@@ -1,7 +1,7 @@
 url: https://ovos-helpbot.tigregotico.pt/status
-status: up
-code: 200
-responseTime: 566
-lastUpdated: 2025-05-15T23:21:51.578Z
+status: down
+code: 502
+responseTime: 599
+lastUpdated: 2025-05-16T20:52:07.161Z
 startTime: 2025-03-05T19:39:58.951Z
 generator: Upptime <https://github.com/upptime/upptime>
