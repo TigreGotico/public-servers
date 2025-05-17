@@ -1,7 +1,7 @@
 url: https://deepseek.tigregotico.pt/status
-status: up
-code: 200
-responseTime: 569
-lastUpdated: 2025-05-16T23:21:13.896Z
+status: down
+code: 502
+responseTime: 455
+lastUpdated: 2025-05-17T18:16:27.340Z
 startTime: 2025-03-12T19:41:07.599Z
 generator: Upptime <https://github.com/upptime/upptime>
