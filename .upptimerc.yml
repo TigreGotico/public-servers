@@ -17,6 +17,10 @@ sites:
     url: https://mimic.tigregotico.pt/status
   - name: TTS - SAM
     url: https://sam.tigregotico.pt/status
+  - name: TTS - OpenTTS (MaryTTS Compatible)
+    url: https://opentts.tigregotico.pt
+  - name: TTS - Larynx (MaryTTS Compatible)
+    url: https://larynx.tigregotico.pt
   - name: STT - FasterWhisper (turbo-large-v3)
     url: https://fasterwhisper.tigregotico.pt/status
   - name: STT - Citrinet
@@ -41,70 +45,8 @@ sites:
     url: https://hivemind-persona.tigregotico.pt/status
   - name: Persona - OVOS Helpbot
     url: https://ovos-helpbot.tigregotico.pt/status
-  - name: Persona - Aya Extreme
-    url: https://aya.tigregotico.pt/status
-  - name: Persona - Command R
-    url: https://command-r.tigregotico.pt/status
-  - name: Persona - Deepscaler
-    url: https://deepscaler.tigregotico.pt/status
-  - name: Persona - Deepseek
-    url: https://deepseek.tigregotico.pt/status
-  - name: Persona - Dolphin
-    url: https://dolphin.tigregotico.pt/status
-  - name: Persona - Falcon
-    url: https://falcon.tigregotico.pt/status
-  - name: Persona - Gemma
-    url: https://gemma.tigregotico.pt/status
-  - name: Persona - Gemma (12b)
-    url: https://gemma-12b.tigregotico.pt/status
-  - name: Persona - GLM 4
-    url: https://glm4.tigregotico.pt/status
-  - name: Persona - Granite
-    url: https://granite.tigregotico.pt/status
-  - name: Persona - Hermes
-    url: https://hermes.tigregotico.pt/status
-  - name: Persona - LLama Vision
-    url: https://llama-vision.tigregotico.pt/status
-  - name: Persona - LLava Phi3
-    url: https://llava-phi3.tigregotico.pt/status
-  - name: Persona - Mathstral
-    url: https://mathstral.tigregotico.pt/status
-  - name: Persona - Mini CPM V
-    url: https://minicpm-v.tigregotico.pt/status
-  - name: Persona - Mistral Nemo
-    url: https://mistral-nemo.tigregotico.pt/status
-  - name: Persona - Mistral
-    url: https://mistral.tigregotico.pt/status
-  - name: Persona - Nemotron
-    url: https://nemotron.tigregotico.pt/status
-  - name: Persona - Olmo
-    url: https://olmo2.tigregotico.pt/status
-  - name: Persona - Open Thinker
-    url: https://openthinker.tigregotico.pt/status
-  - name: Persona - Phi4
-    url: https://phi4.tigregotico.pt/status
-  - name: Persona - Phi4 Mini
-    url: https://phi4-mini.tigregotico.pt/status
-  - name: Persona - Qwen2.5
-    url: https://qwen.tigregotico.pt/status
-  - name: Persona - Qwen2.5 Coder
-    url: https://qwen-coder.tigregotico.pt/status
-  - name: Persona - ReaderLM
-    url: https://reader-lm.tigregotico.pt/status
   - name: Persona - Salamandra
     url: https://salamandra.tigregotico.pt/status
-  - name: Persona - Small Thinker
-    url: https://smallthinker.tigregotico.pt/status
-  - name: Persona - Smollm
-    url: https://smollm.tigregotico.pt/status
-  - name: Persona - Solar
-    url: https://solar.tigregotico.pt/status
-  - name: Persona - Tiny Dolphin
-    url: https://tiny-dolphin.tigregotico.pt/status
-  - name: Persona - Tiny Llama
-    url: https://tiny-llama.tigregotico.pt/status
-  - name: Persona - Tulu
-    url: https://tulu.tigregotico.pt/status
   - name: Persona - Claude (proxy)
     url: https://claude.tigregotico.pt/status
   - name: Persona - GPT-4o-mini (proxy)
