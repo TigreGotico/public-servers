@@ -21,6 +21,8 @@ sites:
     url: https://opentts.tigregotico.pt
   - name: TTS - Larynx (MaryTTS Compatible)
     url: https://larynx.tigregotico.pt
+  - name: TTS - Mimic3 (MaryTTS Compatible)
+    url: https://mimic3.tigregotico.pt
   - name: STT - FasterWhisper (turbo-large-v3)
     url: https://fasterwhisper.tigregotico.pt/status
   - name: STT - Citrinet
