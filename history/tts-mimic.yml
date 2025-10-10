@@ -1,7 +1,7 @@
 url: https://mimic.tigregotico.pt/status
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-10-10T05:34:16.137Z
+status: up
+code: 200
+responseTime: 1097
+lastUpdated: 2025-10-10T05:38:32.168Z
 startTime: 2025-03-04T18:17:08.547Z
 generator: Upptime <https://github.com/upptime/upptime>
