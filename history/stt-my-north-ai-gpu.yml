@@ -1,7 +1,7 @@
 url: https://mynorthai.tigregotico.pt/status
-status: up
-code: 200
-responseTime: 484
-lastUpdated: 2025-10-31T23:20:22.694Z
+status: down
+code: 502
+responseTime: 627
+lastUpdated: 2025-11-01T18:24:49.068Z
 startTime: 2025-03-19T21:47:39.513Z
 generator: Upptime <https://github.com/upptime/upptime>
