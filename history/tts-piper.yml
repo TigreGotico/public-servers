@@ -1,7 +1,7 @@
 url: https://piper.tigregotico.pt/status
-status: up
-code: 200
-responseTime: 485
-lastUpdated: 2025-10-31T23:20:15.875Z
+status: down
+code: 502
+responseTime: 1055
+lastUpdated: 2025-11-01T18:24:12.566Z
 startTime: 2025-03-04T18:17:07.571Z
 generator: Upptime <https://github.com/upptime/upptime>
