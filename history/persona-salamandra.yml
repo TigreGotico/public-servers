@@ -1,7 +1,7 @@
 url: https://salamandra.tigregotico.pt/status
-status: down
-code: 502
-responseTime: 543
-lastUpdated: 2025-11-11T22:39:05.243Z
+status: up
+code: 200
+responseTime: 496
+lastUpdated: 2025-11-11T22:45:00.687Z
 startTime: 2025-03-06T00:09:46.794Z
 generator: Upptime <https://github.com/upptime/upptime>
