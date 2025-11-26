@@ -1,7 +1,7 @@
 url: https://mixtral.tigregotico.pt/status
-status: up
-code: 200
-responseTime: 863
-lastUpdated: 2025-11-25T23:22:17.259Z
+status: down
+code: 502
+responseTime: 499
+lastUpdated: 2025-11-26T19:39:30.158Z
 startTime: 2025-03-12T21:23:39.782Z
 generator: Upptime <https://github.com/upptime/upptime>
