@@ -1,7 +1,7 @@
 url: https://sam.tigregotico.pt/status
-status: down
-code: 502
-responseTime: 684
-lastUpdated: 2025-11-26T14:54:36.340Z
+status: up
+code: 200
+responseTime: 828
+lastUpdated: 2025-11-26T14:58:18.570Z
 startTime: 2025-03-04T18:17:09.484Z
 generator: Upptime <https://github.com/upptime/upptime>
