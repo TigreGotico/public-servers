@@ -31,6 +31,8 @@ sites:
     url: https://whisper.tigregotico.pt/status
   - name: STT - MyNorthAI (GPU)
     url: https://mynorthai.tigregotico.pt/status
+  - name: STT - Nemo (GPU)
+    url: https://nemo.tigregotico.pt/status
   - name: STT - HiTZ (GPU)
     url: https://hitz.tigregotico.pt/status
   - name: STT - Google Chromium (proxy)
