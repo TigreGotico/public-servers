@@ -37,7 +37,7 @@ sites:
     url: https://hitz.tigregotico.pt/status
   - name: STT - Google Chromium (proxy)
     url: https://chromium.tigregotico.pt/status
-  - name: Translate - NLLB
+  - name: Translate - NLLB (GPU)
     url: https://nllb.tigregotico.pt/status
   - name: Translate - Google (proxy)
     url: https://google-translate.tigregotico.pt/status
