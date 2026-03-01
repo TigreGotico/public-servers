@@ -1,7 +1,7 @@
 url: https://larynx.tigregotico.pt
-status: up
-code: 200
-responseTime: 1039
-lastUpdated: 2026-02-28T23:26:49.936Z
+status: down
+code: 502
+responseTime: 701
+lastUpdated: 2026-03-01T19:54:34.464Z
 startTime: 2025-06-11T16:19:05.734Z
 generator: Upptime <https://github.com/upptime/upptime>
