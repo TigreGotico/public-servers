@@ -1,7 +1,7 @@
 url: https://opentts.tigregotico.pt
-status: up
-code: 200
-responseTime: 915
-lastUpdated: 2026-02-28T23:26:48.711Z
+status: down
+code: 502
+responseTime: 959
+lastUpdated: 2026-03-01T19:54:31.829Z
 startTime: 2025-06-11T16:19:04.692Z
 generator: Upptime <https://github.com/upptime/upptime>
