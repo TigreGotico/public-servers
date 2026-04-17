@@ -1,7 +1,7 @@
 url: https://nemo.tigregotico.pt/status
-status: down
-code: 502
-responseTime: 470
-lastUpdated: 2026-04-16T23:47:57.664Z
+status: up
+code: 200
+responseTime: 588
+lastUpdated: 2026-04-17T03:41:47.045Z
 startTime: 2025-12-10T19:24:32.706Z
 generator: Upptime <https://github.com/upptime/upptime>
