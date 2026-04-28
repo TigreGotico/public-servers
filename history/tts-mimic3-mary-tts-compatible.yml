@@ -1,7 +1,7 @@
 url: https://mimic3.tigregotico.pt
-status: up
-code: 200
-responseTime: 2620
-lastUpdated: 2026-04-27T23:57:21.946Z
+status: down
+code: 502
+responseTime: 898
+lastUpdated: 2026-04-28T10:43:17.635Z
 startTime: 2025-06-11T16:45:43.288Z
 generator: Upptime <https://github.com/upptime/upptime>
