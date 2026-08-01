@@ -24,17 +24,17 @@ sites:
   - name: STT - Parakeet TDT 0.6b v3 (25 European languages)
     url: https://parakeet.openvoiceos.pt/status
   - name: STT - GigaAM v2 (Russian)
-    url: https://gigaam.openvoiceos.pt/status
+    url: https://ru.stt.openvoiceos.pt/status
   - name: STT - HiTZ Conformer (Basque)
-    url: https://stt-eu.openvoiceos.pt/status
+    url: https://eu.stt.openvoiceos.pt/status
   - name: STT - Proxecto Nós Conformer (Galician)
-    url: https://stt-gl.openvoiceos.pt/status
+    url: https://gl.stt.openvoiceos.pt/status
   - name: STT - Conformer (Catalan)
-    url: https://stt-ca.openvoiceos.pt/status
+    url: https://ca.stt.openvoiceos.pt/status
   - name: STT - Parakeet TDT 0.6b (Portuguese)
-    url: https://stt-pt.openvoiceos.pt/status
+    url: https://pt.stt.openvoiceos.pt/status
   - name: STT - Vaani FastConformer (Indian languages)
-    url: https://vaani.openvoiceos.pt/status
+    url: https://hi.stt.openvoiceos.pt/status
   - name: Translate - Google (proxy)
     url: https://google-translate.openvoiceos.pt/status
 
