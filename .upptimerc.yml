@@ -17,8 +17,8 @@ sites:
     url: https://larynx.openvoiceos.pt
   - name: TTS - Mimic3 (MaryTTS Compatible)
     url: https://mimic3.openvoiceos.pt
-  - name: STT - FasterWhisper (turbo-large-v3)
-    url: https://fasterwhisper.openvoiceos.pt/status
+  - name: STT - Whisper (long-tail languages)
+    url: https://ar.stt.openvoiceos.pt/status
   - name: STT - Google Chromium (proxy)
     url: https://chromium.openvoiceos.pt/status
   - name: STT - Parakeet TDT 0.6b v3 (25 European languages)
