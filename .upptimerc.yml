@@ -23,6 +23,8 @@ sites:
     url: https://mimic3.openvoiceos.pt
   - name: STT - Google Chromium (proxy)
     url: https://chromium.openvoiceos.pt/status
+  - name: Translate - NLLB-200 (200 languages)
+    url: https://nllb.openvoiceos.pt/status
   - name: Translate - Google (proxy)
     url: https://google-translate.openvoiceos.pt/status
 
