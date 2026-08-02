@@ -3,6 +3,10 @@ owner: TigreGotico # Your GitHub organization or username, where this repository
 repo: public-servers # The name of this repository
 
 sites:
+  - name: STT - onnx-asr (multilingual, best model per language)
+    url: https://stt.openvoiceos.pt/status
+  - name: TTS - phoonnx (multilingual, best voice per language)
+    url: https://tts.openvoiceos.pt/status
   - name: TTS - phoonnx (multilingual, per-request voice)
     url: https://phoonnx.openvoiceos.pt/status
   - name: TTS - Piper
@@ -17,24 +21,8 @@ sites:
     url: https://larynx.openvoiceos.pt
   - name: TTS - Mimic3 (MaryTTS Compatible)
     url: https://mimic3.openvoiceos.pt
-  - name: STT - Whisper (long-tail languages)
-    url: https://ar.stt.openvoiceos.pt/status
   - name: STT - Google Chromium (proxy)
     url: https://chromium.openvoiceos.pt/status
-  - name: STT - Parakeet TDT 0.6b v3 (25 European languages)
-    url: https://parakeet.openvoiceos.pt/status
-  - name: STT - GigaAM v2 (Russian)
-    url: https://ru.stt.openvoiceos.pt/status
-  - name: STT - HiTZ Conformer (Basque)
-    url: https://eu.stt.openvoiceos.pt/status
-  - name: STT - Proxecto Nós Conformer (Galician)
-    url: https://gl.stt.openvoiceos.pt/status
-  - name: STT - Conformer (Catalan)
-    url: https://ca.stt.openvoiceos.pt/status
-  - name: STT - Parakeet TDT 0.6b (Portuguese)
-    url: https://pt.stt.openvoiceos.pt/status
-  - name: STT - Vaani FastConformer (Indian languages)
-    url: https://hi.stt.openvoiceos.pt/status
   - name: Translate - Google (proxy)
     url: https://google-translate.openvoiceos.pt/status
 
